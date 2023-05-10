@@ -1,11 +1,13 @@
 # Management-System-Using-SpringBoot (Backend)
 
+Project Overview: 
+This is a backend implementation of an Employee Management System built using Spring Boot framework. It provides APIs for managing employee data, including creating new employees, updating their information, deleting them, and retrieving employee information. The backend is consists of caching to increase efficiency. 
+
 Note to the reader:
 1. This application only utilizes backend configuration, which means I created a sample database of students
-   with their occupation type. This project is limited by the fact that any user can update or delete any student    informaiton in the Management system. The backend is consists of caching to increase efficiency. 
-
-This is a backend implementation of an Employee Management System built using Spring Boot framework. It provides APIs for managing employee data, including creating new employees, updating their information, deleting them, and retrieving employee information.
-
+   with their occupation type. This project is limited by the fact that any user can update or delete any student    informaiton in the Management system.
+   
+   
 ## Technologies Used
 
 * Spring Boot Framework
